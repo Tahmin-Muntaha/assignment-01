@@ -178,3 +178,36 @@ nav{
     height: 360px;
     border-radius: 45px;
 }
+/*form*/
+.form{
+    display: flex;
+    align-items: center;
+    gap:80px;
+    margin-left: 150px;
+    margin-right: 150px;
+    background-color:#d6dded ;
+    padding:60px 15px 60px 15px;
+    margin-bottom: 14px;
+}
+.form label,.form input,.form textarea{
+    display: block;
+}
+.about-form{
+    font-weight: bold;
+    font-size: 98px;
+}
+.form input,.form textarea{
+    padding:20px 20px;
+    width: 300px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: none;
+    
+}
+form .btn{
+    width: 300px;
+}
+.form label{
+    font-weight: 600px;
+    font-size: 18px;
+}
