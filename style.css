@@ -90,3 +90,26 @@ nav{
     width: 405px;
     border-radius: 55px;
 }
+/* productive-member*/
+.no-description{
+    color:rgba(37, 36,50, 0.5);
+    font-size: 25px;
+}
+.pro{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.productive{
+    text-align: center;
+    background-color:rgba(78,71,255,.1) ;
+    margin-left:150px;
+    margin-right:150px;
+    margin-bottom: 70px;
+}
+.no span{
+    font-size: 80px;
+}
+.pro-main{
+    padding:50px 145px 50px 145px;
+}
