@@ -159,3 +159,22 @@ nav{
 .date{
     color:rgba(37, 36,50, 0.5);
 }
+/*focus-section*/
+.focus{
+    text-align: center;
+    width:1140px;
+    height:650px;
+    padding:71px 150px 71px 150px;
+    margin-bottom: 108px;
+}
+
+.focus .btn{
+    display: block;
+    margin: 0 auto;
+    width: 195px;
+}
+.focus img{
+    width: 840px;
+    height: 360px;
+    border-radius: 45px;
+}
