@@ -211,3 +211,23 @@ form .btn{
     font-weight: 600px;
     font-size: 18px;
 }
+/*footer*/
+footer{
+    text-align: center;
+    height: 220px;
+    width: 520px;
+    margin-left: 520px;
+    margin-top: 130px;
+    margin-bottom: 70px;
+}
+footer span{
+    font-size: 100px;
+    font-weight: bold;
+}
+.footer-div{
+    display: flex;
+    justify-content: space-evenly;
+}
+.footer-div a{
+    text-decoration: none;
+}
