@@ -113,3 +113,49 @@ nav{
 .pro-main{
     padding:50px 145px 50px 145px;
 }
+/* review*/
+.review{
+    text-align: center;
+    margin-left: 140px;
+    margin-right: 140px;
+    margin-bottom: 14px;
+}
+.review h2{
+    font-size: 40px;
+}
+.cards{
+    display: flex;
+    text-align: left;
+    gap:20px;
+    justify-content: space-evenly;
+    
+
+
+}
+.section-card{
+    height:245px;
+    width:350px;
+    padding:24px;
+    box-shadow: 10px 10px 10px 10px rgb(221, 210, 210);
+}
+.identity{
+    display: flex;
+    align-items: center;
+    gap:2px;
+}
+.round{
+    height:40px;
+    width: 40px;
+    border-radius: 50%;
+    background-image: url("assets/avatar.png");
+}
+.section-card h4{
+    font-size: 20px;
+}
+.name{
+    color:rgba(37, 36, 50, 0.7);
+}
+
+.date{
+    color:rgba(37, 36,50, 0.5);
+}
